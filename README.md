@@ -6,3 +6,4 @@ Contains simple programs implemented using IBM's Qiskit framework.
    - Generation of phi+   
    - Generation of psi+
    - Generation of phi-
+   - Generation of psi-
