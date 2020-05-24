@@ -1,4 +1,4 @@
-# qiskit_basic
+# qiskit_basics
 Contains simple programs implemented using IBM's Qiskit framework.
 
 # Current implemented programs are-
@@ -7,3 +7,4 @@ Contains simple programs implemented using IBM's Qiskit framework.
    - Generation of psi+
    - Generation of phi-
    - Generation of psi-
+2. Half Adder circuit
