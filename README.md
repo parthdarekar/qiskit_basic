@@ -8,3 +8,4 @@ Contains simple programs implemented using IBM's Qiskit framework.
    - Generation of phi-
    - Generation of psi-
 2. Half Adder circuit
+3. Basic quantum random number generator
