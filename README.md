@@ -1,5 +1,5 @@
 # qiskit_basics
-Contains simple programs implemented using IBM's Qiskit framework.
+Contains some programs implemented using IBM's Qiskit framework.
 
 # Current implemented programs are-
 1. Generation of the Bell states   
